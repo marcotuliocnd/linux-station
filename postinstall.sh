@@ -10,13 +10,12 @@ sudo apt update &&
 
 ## installing essencials packages
 
-sudo apt install python3 python-pip wine nautilus-dropbox docker docker-compose git build-essential libssl-dev flatpak gnome-software-plugin-flatpak libgl1-mesa-glx:i386 -y &&
+sudo apt install python3 python-pip wine nautilus-dropbox docker docker-compose git build-essential libssl-dev flatpak gnome-software-plugin-flatpak libgl1-mesa-glx:i386 openconnect network-manager-openconnect network-manager-openconnect-gnome  -y &&
 
 ## installing snap packages
 
 sudo snap install skype --classic &&
 sudo snap install atom --classic &&
-sudo snap install --edge node --classic &&
 sudo snap install insomnia &&
 sudo snap install spotify &&
 sudo snap install onlyoffice-desktopeditors &&
