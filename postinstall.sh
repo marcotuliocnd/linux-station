@@ -18,7 +18,7 @@ sudo snap install skype --classic &&
 sudo snap install atom --classic &&
 sudo snap install insomnia &&
 sudo snap install spotify &&
-sudo snap install onlyoffice-desktopeditors &&
+sudo snap install wps-office-multilang &&
 sudo snap install photogimp &&
 sudo snap install mailspring &&
 sudo snap install flameshot &&
